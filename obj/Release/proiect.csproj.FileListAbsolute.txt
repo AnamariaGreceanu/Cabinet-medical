@@ -1,0 +1,16 @@
+E:\DocumenteLucru\paw\proiect\bin\Release\proiect.exe.config
+E:\DocumenteLucru\paw\proiect\bin\Release\proiect.exe
+E:\DocumenteLucru\paw\proiect\bin\Release\proiect.pdb
+E:\DocumenteLucru\paw\proiect\obj\Release\proiect.csproj.AssemblyReference.cache
+E:\DocumenteLucru\paw\proiect\obj\Release\proiect.Dashboard.resources
+E:\DocumenteLucru\paw\proiect\obj\Release\proiect.Form1.resources
+E:\DocumenteLucru\paw\proiect\obj\Release\proiect.FormAfiseazaRetete.resources
+E:\DocumenteLucru\paw\proiect\obj\Release\proiect.FormPacienti.resources
+E:\DocumenteLucru\paw\proiect\obj\Release\proiect.FormRetete.resources
+E:\DocumenteLucru\paw\proiect\obj\Release\proiect.Properties.Resources.resources
+E:\DocumenteLucru\paw\proiect\obj\Release\proiect.csproj.GenerateResource.cache
+E:\DocumenteLucru\paw\proiect\obj\Release\proiect.csproj.CoreCompileInputs.cache
+E:\DocumenteLucru\paw\proiect\obj\Release\proiect.exe
+E:\DocumenteLucru\paw\proiect\obj\Release\proiect.pdb
+E:\DocumenteLucru\paw\proiect\obj\Release\proiect.FormAdaugMedic.resources
+E:\DocumenteLucru\paw\proiect\obj\Release\proiect.FormMedici.resources

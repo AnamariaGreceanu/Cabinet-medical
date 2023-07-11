@@ -1,0 +1,2 @@
+Pacientul pacient1 este diagnosticat cu raceala
+Pacientul pacient2 este diagnosticat cu raceala
